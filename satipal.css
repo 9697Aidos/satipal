@@ -1,0 +1,70 @@
+.headd{
+    width: 100%;
+    display: flex;
+    
+    background-color: rgb(81, 81, 157);
+}
+.search{
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.satu{
+    margin-left: 10%;
+}
+.body{
+    width: 100%;
+    display: flex;
+    margin-top: 10px;
+    background-color: rgb(200, 189, 189);
+}
+
+.block2{
+    width: 20%;
+}
+.block3{
+    width: 55%;
+    height: 200px;
+    background-color: white;
+    display: block;
+}
+.block4{
+    width: 25%;
+    background-color: rgb(200, 189, 189);
+}
+.col{
+    width: 100%;
+    margin: 10px;
+}
+.b3{
+    display: flex;
+    width: 100%;
+   
+   
+    
+}
+.container1{
+    width: 50%;
+    margin-left: 10px;
+    
+}
+.btn{
+    background-color: red;
+}
+.suret{
+    width: 89%;
+}
+.ded{
+    margin-left: 29px;
+}
+#btn{
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
